@@ -1097,3 +1097,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [09Feb2025 22:23:43.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set own game mode to Survival Mode]
 [09Feb2025 22:30:22.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [09Feb2025 22:30:22.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[09Feb2025 22:32:16.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 has completed the challenge [Free Willy]
+[09Feb2025 22:33:36.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set the time to 1000]
+[09Feb2025 22:38:01.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 has made the advancement [Stone Age]
+[09Feb2025 22:39:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 has made the advancement [Getting an Upgrade]
