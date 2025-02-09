@@ -1092,3 +1092,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [09Feb2025 22:14:50.156] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [09Feb2025 22:14:50.161] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12274e38[id=<null>,name=JoGo29_627,properties={},legacy=false] (/127.15.160.153:55783) lost connection: Connection closed - mismatched mod channel list
 [09Feb2025 22:18:14.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set the time to 1000]
+[09Feb2025 22:23:02.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set the time to 1000]
+[09Feb2025 22:23:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set own game mode to Creative Mode]
+[09Feb2025 22:23:43.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set own game mode to Survival Mode]
+[09Feb2025 22:30:22.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Feb2025 22:30:22.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
