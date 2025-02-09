@@ -3776,3 +3776,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [09Feb2025 22:37:07.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Feb2025 22:38:01.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 has made the advancement [Stone Age]
 [09Feb2025 22:39:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 has made the advancement [Getting an Upgrade]
+[09Feb2025 22:42:07.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 22:42:07.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 22:42:57.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesar_Gamer58 lost connection: Disconnected
+[09Feb2025 22:42:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 left the game
+[09Feb2025 22:43:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Feb2025 22:43:07.205] [Server thread/INFO] [HammerLib/]: Purging cache from 0 HL recipe registries.
+[09Feb2025 22:43:07.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Feb2025 22:43:07.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Feb2025 22:43:07.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Feb2025 22:43:08.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Feb2025 22:43:08.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Feb2025 22:43:08.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Feb2025 22:43:08.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 22:43:08.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 22:43:08.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Feb2025 22:43:08.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Feb2025 22:43:08.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Feb2025 22:43:08.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Feb2025 22:43:08.867] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[09Feb2025 22:43:08.867] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[09Feb2025 22:43:08.868] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[09Feb2025 22:43:08.868] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
