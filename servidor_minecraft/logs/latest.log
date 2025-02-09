@@ -1082,3 +1082,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [09Feb2025 21:54:28.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=121, y=68, z=132}
 [09Feb2025 21:56:48.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Cesar_Gamer58 a server operator
 [09Feb2025 21:57:14.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set the time to 1000]
+[09Feb2025 22:03:45.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set own game mode to Creative Mode]
+[09Feb2025 22:03:59.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set own game mode to Survival Mode]
+[09Feb2025 22:07:32.960] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [obscure_api:obscure_api,lionfishapi:main_channel,epicfight:network_manager,caelus:main,artifacts:main,aquamirae:main,curios:main,alexsmobs:main_channel,geckolib3:main,citadel:main_channel] rejected their client side version number
+[09Feb2025 22:07:32.961] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Feb2025 22:07:32.965] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3698256a[id=<null>,name=JoGo29_627,properties={},legacy=false] (/127.15.160.153:56397) lost connection: Connection closed - mismatched mod channel list
+[09Feb2025 22:07:56.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Set the time to 1000]
