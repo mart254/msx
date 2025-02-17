@@ -4263,3 +4263,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [17Feb2025 03:51:56.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> OSTRAS
 [17Feb2025 03:51:59.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> UN MAGO
 [17Feb2025 03:52:02.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57303, l='ServerLevel[world]', x=-141.30, y=53.00, z=539.70] died, message: 'Villager was slain by Zombie'
+[17Feb2025 03:53:26.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:53:26.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:53:39.371] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:39.619] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:39.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:40.122] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:40.376] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:40.619] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:40.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:41.121] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:41.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:41.620] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:41.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:42.196] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:54.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:54.270] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:54.521] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:54.770] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:55.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:55.270] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:55.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:55.770] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:56.020] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:56.271] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:56.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:56.780] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:53:57.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:54:32.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> casi me mata
+[17Feb2025 03:55:16.770] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:17.020] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:17.270] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:17.521] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:17.770] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:18.020] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:18.269] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:18.520] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:18.771] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:19.021] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:19.270] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:19.520] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:19.771] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:55:20.021] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[17Feb2025 03:56:02.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax has made the advancement [Tools of the Trade]
+[17Feb2025 03:56:04.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ez
+[17Feb2025 03:56:35.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax has made the advancement [Into Fire]
+[17Feb2025 03:57:57.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/61510, l='ServerLevel[world]', x=-151.30, y=67.00, z=503.70] died, message: 'Nitwit was slain by Zombie'
+[17Feb2025 03:58:23.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61507, l='ServerLevel[world]', x=-174.51, y=60.94, z=530.70] died, message: 'Villager was slain by Zombie'
+[17Feb2025 03:58:26.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:58:26.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:59:06.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61554, l='ServerLevel[world]', x=-144.30, y=52.00, z=538.70] died, message: 'Villager was slain by Zombie'
+[17Feb2025 03:59:54.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> papu
+[17Feb2025 04:00:06.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> PAPU
+[17Feb2025 04:00:08.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> TP
+[17Feb2025 04:00:17.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> manda
+[17Feb2025 04:00:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> como
+[17Feb2025 04:01:31.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Teleported papijax to Cesar_Gamer58]
+[17Feb2025 04:01:42.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> que lag me dio
+[17Feb2025 04:01:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> papu
+[17Feb2025 04:01:51.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> mira
+[17Feb2025 04:02:22.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> son pociones de prisa minera y inmunidad al fuego

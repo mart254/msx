@@ -491,7 +491,10 @@
     "criteria": {
       "muskeg": "2025-02-17 03:10:09 +0000",
       "cold_desert": "2025-02-17 03:44:13 +0000",
+      "bog": "2025-02-17 03:49:33 +0000",
+      "seasonal_orchard": "2025-02-17 03:50:11 +0000",
       "seasonal_forest": "2025-02-17 03:10:08 +0000",
+      "fir_clearing": "2025-02-17 03:49:00 +0000",
       "snowy_coniferous_forest": "2025-02-17 03:43:20 +0000",
       "snowy_fir_clearing": "2025-02-17 03:47:20 +0000",
       "tundra": "2025-02-17 03:11:09 +0000"
@@ -729,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-17 03:56:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/horse": {
     "criteria": {
       "has_leather": "2025-02-17 03:19:22 +0000"
@@ -915,6 +924,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-02-17 03:56:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 03:19:46 +0000"
@@ -1053,6 +1068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-17 03:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_leggings": "2025-02-17 03:23:52 +0000"
@@ -1095,6 +1116,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-17 03:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-02-17 02:59:45 +0000"
@@ -1122,6 +1149,7 @@
       "minecraft:snowy_plains": "2025-02-17 03:10:55 +0000",
       "minecraft:snowy_taiga": "2025-02-17 03:42:43 +0000",
       "minecraft:forest": "2025-02-17 02:49:19 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-02-17 03:49:10 +0000",
       "minecraft:plains": "2025-02-17 03:04:58 +0000"
     },
     "done": false
@@ -1261,6 +1289,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-17 03:56:35 +0000"
     },
     "done": true
   },
