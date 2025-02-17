@@ -5,9 +5,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-17 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-17 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
     },
     "done": true
   },
@@ -23,15 +41,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-17 03:06:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-17 03:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-17 03:11:36 +0000"
     },
     "done": true
   },
@@ -47,6 +83,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/hay": {
+    "criteria": {
+      "has_wheat": "2025-02-17 03:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-17 02:57:41 +0000"
@@ -59,9 +101,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-17 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
     },
     "done": true
   },
@@ -77,9 +137,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-17 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-17 03:15:57 +0000"
     },
     "done": true
   },
@@ -119,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-17 03:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
@@ -149,9 +227,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-02-17 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-17 03:09:48 +0000"
     },
     "done": true
   },
@@ -170,6 +266,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
     },
     "done": true
   },
@@ -209,9 +311,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-17 03:15:48 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/crafting_upgrade": {
     "criteria": {
       "has_crafting_table": "2025-02-17 02:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
     },
     "done": true
   },
@@ -221,9 +335,16 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/emerald": {
+    "criteria": {
+      "has_emerald": "2025-02-17 03:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2025-02-17 02:56:43 +0000"
+      "sweet_berries": "2025-02-17 02:56:43 +0000",
+      "bread": "2025-02-17 03:16:12 +0000"
     },
     "done": false
   },
@@ -242,6 +363,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-17 03:09:48 +0000"
     },
     "done": true
   },
@@ -275,6 +402,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "seasonal_forest": "2025-02-17 03:10:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
@@ -284,6 +417,12 @@
   "travelersbackpack:recipes/travelersbackpack/fox": {
     "criteria": {
       "has_sweet_berries": "2025-02-17 02:55:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
     },
     "done": true
   },
@@ -305,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-02-17 02:57:41 +0000"
@@ -314,6 +459,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-17 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
     },
     "done": true
   },
@@ -344,6 +495,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-17 03:15:57 +0000"
     },
     "done": true
   },
@@ -401,15 +558,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-17 02:59:45 +0000"
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "muskeg": "2025-02-17 03:10:09 +0000",
+      "seasonal_forest": "2025-02-17 03:10:08 +0000",
+      "tundra": "2025-02-17 03:11:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-17 03:11:36 +0000"
     },
     "done": true
   },
@@ -430,14 +607,27 @@
       "minecraft:taiga": "2025-02-17 02:55:27 +0000",
       "minecraft:beach": "2025-02-17 02:49:41 +0000",
       "minecraft:river": "2025-02-17 02:58:08 +0000",
+      "minecraft:snowy_plains": "2025-02-17 03:10:55 +0000",
       "minecraft:forest": "2025-02-17 02:49:19 +0000",
       "minecraft:plains": "2025-02-17 03:04:58 +0000"
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-17 03:16:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-02-17 02:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
     },
     "done": true
   },
@@ -519,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-17 03:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
@@ -549,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-17 02:59:42 +0000",
@@ -569,9 +771,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-17 03:09:48 +0000"
     },
     "done": true
   },
@@ -590,6 +804,18 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-17 03:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-17 03:14:02 +0000"
     },
     "done": true
   },
@@ -614,6 +840,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-17 03:09:48 +0000"
     },
     "done": true
   },
