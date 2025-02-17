@@ -1294,3 +1294,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [17Feb2025 04:01:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> papu
 [17Feb2025 04:01:51.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> mira
 [17Feb2025 04:02:22.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> son pociones de prisa minera y inmunidad al fuego
+[17Feb2025 04:04:44.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> necesito cuero
+[17Feb2025 04:05:21.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> cuero pa que?
+[17Feb2025 04:05:44.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> para una mochila
+[17Feb2025 04:05:48.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> a ok
+[17Feb2025 04:05:58.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> voy a buscar mas cosas
+[17Feb2025 04:06:16.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> va
+[17Feb2025 04:06:23.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> OSTRAS
+[17Feb2025 04:06:35.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> papu
+[17Feb2025 04:06:43.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> necesito tu ayuda en esta ocasion
+[17Feb2025 04:06:44.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> q
+[17Feb2025 04:06:59.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ven
+[17Feb2025 04:07:31.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> PAPU
+[17Feb2025 04:07:34.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> VENI HP
+[17Feb2025 04:08:54.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papijax lost connection: Disconnected
+[17Feb2025 04:08:54.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax left the game
+[17Feb2025 04:09:44.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesar_Gamer58 lost connection: Disconnected
+[17Feb2025 04:09:44.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 left the game
+[17Feb2025 04:09:55.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Feb2025 04:09:55.416] [Server thread/INFO] [HammerLib/]: Purging cache from 0 HL recipe registries.
+[17Feb2025 04:09:55.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Feb2025 04:09:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Feb2025 04:09:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Feb2025 04:09:56.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Feb2025 04:09:56.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Feb2025 04:09:56.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Feb2025 04:09:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Feb2025 04:09:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Feb2025 04:09:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Feb2025 04:09:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
