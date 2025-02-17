@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-17 02:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-09 22:40:49 +0000"
@@ -53,9 +59,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-17 02:58:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-02-09 21:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-17 03:07:25 +0000"
     },
     "done": true
   },
@@ -92,6 +110,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-02-09 22:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-17 02:58:27 +0000"
     },
     "done": true
   },
@@ -137,6 +161,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wolf": {
+    "criteria": {
+      "has_bone": "2025-02-17 02:59:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-09 22:12:54 +0000"
@@ -149,6 +179,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/spider": {
+    "criteria": {
+      "has_string": "2025-02-17 02:58:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-02-09 21:55:16 +0000"
@@ -158,6 +194,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-09 22:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-17 03:05:26 +0000"
     },
     "done": true
   },
@@ -217,6 +259,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-02-17 03:00:59 +0000",
       "apple": "2025-02-09 22:33:00 +0000",
       "cooked_cod": "2025-02-17 02:54:20 +0000",
       "cooked_chicken": "2025-02-09 22:04:01 +0000",
@@ -249,9 +292,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-17 02:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-09 22:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-17 02:59:42 +0000"
     },
     "done": true
   },
@@ -306,6 +361,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-09 22:28:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/coal": {
+    "criteria": {
+      "has_coal": "2025-02-17 03:05:26 +0000"
     },
     "done": true
   },
@@ -405,6 +466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-17 02:58:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2025-02-09 22:36:04 +0000"
@@ -465,6 +532,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-02-17 02:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-09 22:38:01 +0000"
@@ -501,7 +574,8 @@
       "minecraft:beach": "2025-02-09 21:53:37 +0000",
       "minecraft:river": "2025-02-17 02:58:12 +0000",
       "minecraft:cold_ocean": "2025-02-09 21:55:28 +0000",
-      "minecraft:forest": "2025-02-09 21:53:20 +0000"
+      "minecraft:forest": "2025-02-09 21:53:20 +0000",
+      "minecraft:plains": "2025-02-17 03:01:16 +0000"
     },
     "done": false
   },
@@ -577,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-17 03:07:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-09 22:38:01 +0000"
@@ -619,6 +699,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-17 03:03:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 21:56:18 +0000"
@@ -637,6 +723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-17 02:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-09 21:55:16 +0000"
@@ -645,7 +737,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-02-17 02:57:40 +0000"
+      "minecraft:skeleton": "2025-02-17 02:59:41 +0000",
+      "minecraft:spider": "2025-02-17 02:57:40 +0000",
+      "minecraft:creeper": "2025-02-17 03:01:39 +0000",
+      "minecraft:enderman": "2025-02-17 03:03:54 +0000",
+      "minecraft:zombie": "2025-02-17 03:07:20 +0000"
     },
     "done": false
   },
@@ -730,6 +826,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-09 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-17 03:07:25 +0000"
     },
     "done": true
   },

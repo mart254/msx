@@ -5,39 +5,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_string": "2025-02-17 02:57:41 +0000"
+      "has_stick": "2025-02-17 03:03:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_planks": "2025-02-17 02:50:48 +0000"
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "always": "2025-02-17 02:49:18 +0000"
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "minecraft:spider": "2025-02-17 02:57:32 +0000"
+      "has_diorite": "2025-02-17 03:06:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "travelersbackpack:recipes/travelersbackpack/lapis": {
     "criteria": {
-      "has_planks": "2025-02-17 02:50:48 +0000"
-    },
-    "done": true
-  },
-  "takesapillage:root": {
-    "criteria": {
-      "always": "2025-02-17 02:49:18 +0000"
+      "has_lapis_lazuli": "2025-02-17 03:07:23 +0000"
     },
     "done": true
   },
@@ -65,20 +59,11 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "in_water": "2025-02-17 02:58:09 +0000"
+      "has_diorite": "2025-02-17 03:06:46 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2025-02-17 02:55:27 +0000",
-      "minecraft:beach": "2025-02-17 02:49:41 +0000",
-      "minecraft:river": "2025-02-17 02:58:08 +0000",
-      "minecraft:forest": "2025-02-17 02:49:19 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -92,9 +77,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_log": "2025-02-17 02:55:14 +0000"
+      "has_stick": "2025-02-17 03:03:33 +0000"
     },
     "done": true
   },
@@ -104,27 +89,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-17 03:06:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "aquamirae:adventure/root": {
     "criteria": {
-      "consumed_item": "2025-02-17 02:56:43 +0000"
+      "crafting_table": "2025-02-17 02:59:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "in_water": "2025-02-17 02:58:09 +0000"
+      "has_stick": "2025-02-17 03:03:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_planks": "2025-02-17 02:50:48 +0000"
+      "has_lots_of_items": "2025-02-17 02:59:49 +0000"
     },
     "done": true
   },
@@ -134,33 +125,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "travelersbackpack:recipes/travelersbackpack/wolf": {
     "criteria": {
-      "has_planks": "2025-02-17 02:50:48 +0000"
+      "has_bone": "2025-02-17 02:59:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_spider_eye": "2025-02-17 02:57:41 +0000"
+      "has_stick": "2025-02-17 03:03:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "in_water": "2025-02-17 02:58:09 +0000"
+      "has_stone_pickaxe": "2025-02-17 02:59:49 +0000"
     },
     "done": true
   },
   "travelersbackpack:recipes/travelersbackpack/spider": {
     "criteria": {
       "has_string": "2025-02-17 02:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-02-17 02:50:48 +0000"
     },
     "done": true
   },
@@ -176,15 +161,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "killed_something": "2025-02-17 02:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-02-17 02:58:09 +0000"
+      "has_coal": "2025-02-17 03:05:19 +0000"
     },
     "done": true
   },
@@ -194,39 +173,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-17 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-17 03:01:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-02-17 02:55:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "travelersbackpack:recipes/travelersbackpack/creeper": {
     "criteria": {
-      "has_string": "2025-02-17 02:57:41 +0000"
+      "has_gunpowder": "2025-02-17 03:01:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
-      "in_water": "2025-02-17 02:58:09 +0000"
+      "has_diorite": "2025-02-17 03:06:46 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "travelersbackpack:recipes/travelersbackpack/crafting_upgrade": {
     "criteria": {
-      "minecraft:spider": "2025-02-17 02:57:32 +0000"
+      "has_crafting_table": "2025-02-17 02:59:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-02-17 02:49:18 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-02-17 02:49:18 +0000"
     },
     "done": true
   },
@@ -236,21 +227,51 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-17 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-17 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-17 02:57:41 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
-    "criteria": {
-      "in_water": "2025-02-17 02:58:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-17 02:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-17 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-02-17 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
     },
     "done": true
   },
@@ -266,27 +287,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/coal": {
+    "criteria": {
+      "has_coal": "2025-02-17 03:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-17 02:55:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_planks": "2025-02-17 02:50:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-02-17 02:58:09 +0000"
+      "crafting_table": "2025-02-17 02:59:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-02-17 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-17 03:06:46 +0000"
     },
     "done": true
   },
@@ -308,15 +335,291 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
-      "has_planks": "2025-02-17 02:50:48 +0000"
+      "has_diorite": "2025-02-17 03:06:46 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-17 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:50:48 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-17 02:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-17 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-02-17 02:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:50:48 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-02-17 02:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-17 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-02-17 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-02-17 02:55:27 +0000",
+      "minecraft:beach": "2025-02-17 02:49:41 +0000",
+      "minecraft:river": "2025-02-17 02:58:08 +0000",
+      "minecraft:forest": "2025-02-17 02:49:19 +0000",
+      "minecraft:plains": "2025-02-17 03:04:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-17 02:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-17 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-17 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-17 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-17 02:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-17 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-17 02:59:42 +0000",
+      "minecraft:spider": "2025-02-17 02:57:32 +0000",
+      "minecraft:enderman": "2025-02-17 03:06:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-17 03:07:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-17 02:49:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-02-17 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-17 02:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-17 03:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-02-17 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:50:48 +0000"
     },
     "done": true
   },

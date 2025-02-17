@@ -3995,3 +3995,75 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [17Feb2025 03:01:45.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> tienes hacha?
 [17Feb2025 03:01:48.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> se
 [17Feb2025 03:02:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> pica piedra
+[17Feb2025 03:03:26.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:03:26.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:03:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> xd
+[17Feb2025 03:03:57.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> como se ve de grasioso
+[17Feb2025 03:04:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> tiene mas animacion que ataque
+[17Feb2025 03:04:09.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> xd
+[17Feb2025 03:04:13.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> dame un pico
+[17Feb2025 03:04:15.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> de piedra
+[17Feb2025 03:04:38.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> q
+[17Feb2025 03:04:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> grax
+[17Feb2025 03:04:54.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> mira
+[17Feb2025 03:05:08.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> una cueva igual de grande como la de tu mama
+[17Feb2025 03:05:14.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> hp
+[17Feb2025 03:05:52.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> dame comida
+[17Feb2025 03:05:57.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> que me muero de hambre
+[17Feb2025 03:06:34.252] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-224, y=35, z=-781}
+[17Feb2025 03:06:34.280] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=35, z=-773}
+[17Feb2025 03:07:04.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ez
+[17Feb2025 03:08:14.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> comida
+[17Feb2025 03:08:26.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:08:26.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:09:05.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> bioma de nieve
+[17Feb2025 03:09:53.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> espera
+[17Feb2025 03:09:56.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> no puedo correr
+[17Feb2025 03:10:28.122] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=26, z=-813}
+[17Feb2025 03:10:28.123] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-813}
+[17Feb2025 03:10:28.124] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-813}
+[17Feb2025 03:10:32.457] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-369, y=27, z=-812}
+[17Feb2025 03:10:32.457] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-369, y=30, z=-814}
+[17Feb2025 03:10:32.457] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-815}
+[17Feb2025 03:10:32.459] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=30, z=-819}
+[17Feb2025 03:10:32.459] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-819}
+[17Feb2025 03:10:37.231] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=27, z=-812}
+[17Feb2025 03:10:37.243] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-813}
+[17Feb2025 03:10:37.244] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-255, y=27, z=-818}
+[17Feb2025 03:10:37.244] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=30, z=-817}
+[17Feb2025 03:10:42.287] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=27, z=-817}
+[17Feb2025 03:10:42.288] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=28, z=-819}
+[17Feb2025 03:10:42.288] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=31, z=-815}
+[17Feb2025 03:10:42.288] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=31, z=-814}
+[17Feb2025 03:10:42.289] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=27, z=-816}
+[17Feb2025 03:10:42.289] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=27, z=-809}
+[17Feb2025 03:10:42.289] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-328, y=27, z=-811}
+[17Feb2025 03:10:42.438] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
+[17Feb2025 03:10:42.439] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
+[17Feb2025 03:10:42.439] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=30, z=-818}
+[17Feb2025 03:10:42.440] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
+[17Feb2025 03:10:42.878] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-814}
+[17Feb2025 03:10:42.878] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=30, z=-814}
+[17Feb2025 03:10:42.879] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-813}
+[17Feb2025 03:10:42.879] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=27, z=-814}
+[17Feb2025 03:10:42.879] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=27, z=-814}
+[17Feb2025 03:10:44.454] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-196, y=27, z=-819}
+[17Feb2025 03:10:44.454] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-815}
+[17Feb2025 03:10:44.764] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=28, z=-759}
+[17Feb2025 03:10:44.765] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=28, z=-760}
+[17Feb2025 03:10:45.017] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=37, z=-882}
+[17Feb2025 03:10:45.078] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-813}
+[17Feb2025 03:10:45.078] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-255, y=27, z=-818}
+[17Feb2025 03:10:45.078] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=30, z=-817}
+[17Feb2025 03:10:45.276] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
+[17Feb2025 03:10:45.277] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
+[17Feb2025 03:10:45.277] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=30, z=-818}
+[17Feb2025 03:10:45.277] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
+[17Feb2025 03:10:47.784] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=27, z=-756}
+[17Feb2025 03:10:47.784] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=27, z=-759}
+[17Feb2025 03:10:50.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> OMG
+[17Feb2025 03:10:59.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ostras
+[17Feb2025 03:11:59.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ya no nos tenemos uqe preocupar por la comida por un tiempo con todo este trigo
+[17Feb2025 03:12:09.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> se
+[17Feb2025 03:12:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> busca un granjero
+[17Feb2025 03:12:43.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> 15 de carbon por una esmeralda
