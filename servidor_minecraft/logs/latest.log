@@ -1794,3 +1794,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [18Feb2025 23:17:01.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> lol
 [18Feb2025 23:17:04.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> mera mrd
 [18Feb2025 23:17:12.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> todavia
+[18Feb2025 23:20:41.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> papu
+[18Feb2025 23:20:43.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> mira
+[18Feb2025 23:20:44.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> q
+[18Feb2025 23:20:49.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> entonces no te vas aun?
+[18Feb2025 23:21:01.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Teleported Cesar_Gamer58 to papijax]
+[18Feb2025 23:21:54.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> necesitamos agua
+[18Feb2025 23:23:17.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> no se pone roja
+[18Feb2025 23:23:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ya se me olvido como era
+[18Feb2025 23:23:28.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> tienes cuero?
+[18Feb2025 23:23:34.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> no xd
+[18Feb2025 23:23:38.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> caraj
+[18Feb2025 23:23:58.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> no he encontrado ni una vaca
+[18Feb2025 23:24:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> en estas coordenadas hay una torre
+[18Feb2025 23:24:37.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> -747.58 68.00 71.95
+[18Feb2025 23:25:03.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> haceme tp por alla xd
+[18Feb2025 23:25:10.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> ok
+[18Feb2025 23:25:22.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ostras estan follando
+[18Feb2025 23:25:35.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Teleported papijax to -746.500000, 68.000000, 71.500000]
+[18Feb2025 23:25:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax has made the advancement [The Lighthouse]
+[18Feb2025 23:26:25.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Summoned new Cow]
+[18Feb2025 23:26:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> ya me voy
+[18Feb2025 23:26:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> :v
+[18Feb2025 23:26:59.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ok
+[18Feb2025 23:27:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> esta si
+[18Feb2025 23:27:03.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> chau
+[18Feb2025 23:27:06.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> adios
+[18Feb2025 23:27:16.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesar_Gamer58 lost connection: Disconnected
+[18Feb2025 23:27:16.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 left the game
+[18Feb2025 23:27:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Feb2025 23:27:33.315] [Server thread/INFO] [HammerLib/]: Purging cache from 0 HL recipe registries.
+[18Feb2025 23:27:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Feb2025 23:27:33.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Feb2025 23:27:33.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Feb2025 23:27:35.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Feb2025 23:27:36.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Feb2025 23:27:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Feb2025 23:27:36.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Feb2025 23:27:36.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Feb2025 23:27:36.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Feb2025 23:27:36.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
