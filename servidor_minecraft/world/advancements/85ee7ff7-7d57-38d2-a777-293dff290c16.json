@@ -706,7 +706,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-18 21:43:16 +0000",
       "minecraft:skeleton": "2025-02-17 02:59:41 +0000",
+      "minecraft:vindicator": "2025-02-18 21:42:31 +0000",
       "minecraft:spider": "2025-02-17 02:57:40 +0000",
       "minecraft:creeper": "2025-02-17 03:01:39 +0000",
       "minecraft:enderman": "2025-02-17 03:03:54 +0000",
@@ -1233,6 +1235,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-17 02:57:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-02-18 21:38:59 +0000"
     },
     "done": true
   },
