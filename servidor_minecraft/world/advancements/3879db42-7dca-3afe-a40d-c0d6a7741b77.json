@@ -369,6 +369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-18 22:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 03:19:46 +0000"
@@ -827,8 +833,10 @@
       "minecraft:skeleton": "2025-02-17 02:59:42 +0000",
       "minecraft:vindicator": "2025-02-18 21:39:35 +0000",
       "minecraft:spider": "2025-02-17 02:57:32 +0000",
+      "minecraft:evoker": "2025-02-18 22:18:11 +0000",
       "minecraft:enderman": "2025-02-17 03:06:58 +0000",
       "minecraft:stray": "2025-02-17 03:29:52 +0000",
+      "minecraft:vex": "2025-02-18 22:26:53 +0000",
       "minecraft:zombie": "2025-02-18 21:51:35 +0000"
     },
     "done": false
@@ -902,6 +910,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 03:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-18 22:25:04 +0000"
     },
     "done": true
   },
@@ -1301,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-18 22:15:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-18 21:36:04 +0000"
@@ -1334,6 +1354,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 03:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-18 22:18:21 +0000"
     },
     "done": true
   },

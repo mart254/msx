@@ -1149,3 +1149,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [18Feb2025 22:18:25.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax was slain by Vex
 [18Feb2025 22:18:30.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> hp
 [18Feb2025 22:18:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> hermano imposible escapar
+[18Feb2025 22:21:26.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax was slain by Vindicator
+[18Feb2025 22:25:51.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 was slain by Vex
+[18Feb2025 22:26:08.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> has tp a mi
+[18Feb2025 22:26:09.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/39287, l='ServerLevel[world]', x=-174.69, y=60.94, z=530.70] died, message: 'Librarian was slain by Zombie'
+[18Feb2025 22:26:15.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Teleported Cesar_Gamer58 to papijax]
+[18Feb2025 22:27:06.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax was shot by Illusioner
+[18Feb2025 22:27:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Teleported papijax to Cesar_Gamer58]
