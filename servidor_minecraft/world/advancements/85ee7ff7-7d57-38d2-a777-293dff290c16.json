@@ -597,6 +597,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-02-17 03:10:16 +0000",
+      "cold_desert": "2025-02-18 23:02:04 +0000",
+      "pumpkin_patch": "2025-02-18 23:07:00 +0000",
+      "snowy_coniferous_forest": "2025-02-18 23:04:15 +0000",
+      "snowy_fir_clearing": "2025-02-18 23:01:23 +0000",
       "tundra": "2025-02-17 03:10:57 +0000"
     },
     "done": false
@@ -1467,6 +1471,8 @@
       "minecraft:snowy_taiga": "2025-02-17 03:50:27 +0000",
       "minecraft:cold_ocean": "2025-02-09 21:55:28 +0000",
       "minecraft:forest": "2025-02-09 21:53:20 +0000",
+      "minecraft:frozen_ocean": "2025-02-18 23:03:41 +0000",
+      "minecraft:snowy_beach": "2025-02-18 23:03:24 +0000",
       "minecraft:plains": "2025-02-17 03:01:16 +0000"
     },
     "done": false
