@@ -5693,3 +5693,105 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [18Feb2025 22:27:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Teleported papijax to Cesar_Gamer58]
 [18Feb2025 22:28:44.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Feb2025 22:28:44.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 22:30:42.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Feb2025 22:30:43.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[18Feb2025 22:30:55.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> estoy full diamante
+[18Feb2025 22:32:09.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> dontas xd
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.919] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.920] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.920] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.920] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.920] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.920] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.920] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.920] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:32:29.920] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.219] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.219] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.219] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.219] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.219] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.219] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.219] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.219] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:16.220] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:33:35.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> papy
+[18Feb2025 22:33:35.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> al parecer perdi la armadura que consegui
+[18Feb2025 22:33:37.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> papu
+[18Feb2025 22:33:44.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 22:33:44.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 22:33:45.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> np
+[18Feb2025 22:33:51.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> tegno muho diamante
+[18Feb2025 22:33:59.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> y armadura
+[18Feb2025 22:34:05.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> dame
+[18Feb2025 22:34:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> ven a la mesa
+[18Feb2025 22:34:17.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> pera
+[18Feb2025 22:34:20.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> de encantamiento
+[18Feb2025 22:34:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> estoy encerrado en una cueva
+[18Feb2025 22:34:25.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> o tp?
+[18Feb2025 22:34:28.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> no tengo bloques
+[18Feb2025 22:34:29.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> si
+[18Feb2025 22:34:30.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> tp
+[18Feb2025 22:34:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cesar_Gamer58: Teleported papijax to Cesar_Gamer58]
+[18Feb2025 22:34:43.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> lo unico que recupere fueron los pantalones
+[18Feb2025 22:34:56.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> lol
+[18Feb2025 22:35:07.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> toma
+[18Feb2025 22:35:24.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> ahora si
+[18Feb2025 22:35:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> valio la pena ir hasta aqui
+[18Feb2025 22:35:47.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> y todas las muertes
+[18Feb2025 22:37:10.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:37:10.119] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[18Feb2025 22:38:44.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 22:38:44.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
