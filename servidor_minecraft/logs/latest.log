@@ -1133,3 +1133,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [18Feb2025 22:07:03.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> gg
 [18Feb2025 22:07:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax has made the advancement [Diamonds!]
 [18Feb2025 22:07:14.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax has made the advancement [Cover Me with Diamonds]
+[18Feb2025 22:09:25.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> vamonos
+[18Feb2025 22:10:50.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 was doomed to fall
+[18Feb2025 22:14:43.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesar_Gamer58 lost connection: Timed out
+[18Feb2025 22:14:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 left the game
+[18Feb2025 22:14:43.481] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Feb2025 22:15:08.135] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@266bc8a5
+[18Feb2025 22:15:08.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesar_Gamer58[/127.135.94.248:45983] logged in with entity id 33752 at (50.982005242500584, 82.0, 798.856339062541)
+[18Feb2025 22:15:08.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 joined the game
+[18Feb2025 22:15:08.192] [Server thread/INFO] [Jade/]: Syncing config to Cesar_Gamer58 (85ee7ff7-7d57-38d2-a777-293dff290c16)
+[18Feb2025 22:15:11.550] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Cesar_Gamer58 (85ee7ff7-7d57-38d2-a777-293dff290c16)
+[18Feb2025 22:15:17.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 was slain by Vindicator
+[18Feb2025 22:15:56.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax has made the advancement [Isn't It Iron Pick]
+[18Feb2025 22:18:21.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax has reached the goal [Postmortal]
+[18Feb2025 22:18:25.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax was slain by Vex
+[18Feb2025 22:18:30.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> hp
+[18Feb2025 22:18:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> hermano imposible escapar
