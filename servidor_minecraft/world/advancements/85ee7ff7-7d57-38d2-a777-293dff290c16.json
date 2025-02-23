@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-17 03:09:40 +0000"
@@ -113,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-23 03:02:35 +0000"
@@ -176,6 +188,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-17 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },
@@ -272,6 +290,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-23 02:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },
@@ -410,6 +434,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/light_blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/red_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-09 22:38:01 +0000"
@@ -473,6 +509,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-23 03:02:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
     },
     "done": true
   },
@@ -596,6 +638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 21:56:18 +0000"
@@ -716,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-02-18 22:12:26 +0000"
@@ -818,6 +872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-09 21:55:27 +0000"
@@ -906,6 +966,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/magenta_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-02-17 02:57:10 +0000"
@@ -927,6 +993,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-17 03:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },
@@ -978,6 +1050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 03:35:34 +0000"
@@ -987,6 +1065,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-02-18 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },
@@ -1047,6 +1131,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-09 22:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },
@@ -1206,6 +1296,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/black_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-18 22:06:45 +0000"
@@ -1215,6 +1311,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-23 03:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },
@@ -1260,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-17 03:35:38 +0000"
@@ -1275,6 +1383,12 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-02-23 03:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },
@@ -1320,6 +1434,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/brown_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 21:56:18 +0000"
@@ -1329,6 +1449,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 21:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },
@@ -1464,6 +1590,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/green_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-23 02:59:28 +0000"
@@ -1566,6 +1698,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/pink_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-02-17 03:40:41 +0000"
@@ -1635,6 +1773,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-23 02:59:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/cyan_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
     },
     "done": true
   },
@@ -1768,6 +1912,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/purple_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-17 02:57:11 +0000"
@@ -1786,9 +1942,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/orange_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-02-17 03:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },
@@ -1828,6 +1996,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/lime_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-02-09 21:53:19 +0000"
@@ -1858,6 +2038,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/light_gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-02-09 21:55:16 +0000"
@@ -1867,6 +2053,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-18 22:12:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/yellow_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
     },
     "done": true
   },
@@ -1963,6 +2155,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-02-17 03:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 03:28:18 +0000"
     },
     "done": true
   },

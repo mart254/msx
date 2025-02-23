@@ -792,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-23 03:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-17 02:59:45 +0000"
@@ -1974,6 +1980,12 @@
   "biomesoplenty:recipes/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-18 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-23 03:21:47 +0000"
     },
     "done": true
   },
