@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2025-02-23 03:18:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 03:39:49 +0000"
@@ -1444,6 +1450,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-02-23 03:18:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-18 21:54:25 +0000"
@@ -1537,6 +1549,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "seasonal_forest": "2025-02-17 03:10:08 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-02-23 03:18:00 +0000"
     },
     "done": true
   },
@@ -1824,6 +1842,7 @@
       "minecraft:river": "2025-02-17 02:58:08 +0000",
       "minecraft:snowy_plains": "2025-02-17 03:10:55 +0000",
       "minecraft:snowy_taiga": "2025-02-17 03:42:43 +0000",
+      "minecraft:cold_ocean": "2025-02-23 03:16:58 +0000",
       "minecraft:forest": "2025-02-17 02:49:19 +0000",
       "minecraft:frozen_ocean": "2025-02-18 22:59:35 +0000",
       "minecraft:snowy_beach": "2025-02-18 22:59:30 +0000",
@@ -2075,6 +2094,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-02-23 03:18:00 +0000"
     },
     "done": true
   },
