@@ -359,6 +359,7 @@
       "erupting_inferno": "2025-02-23 03:39:19 +0000",
       "cold_desert": "2025-02-18 23:02:04 +0000",
       "maple_woods": "2025-02-23 03:18:24 +0000",
+      "crystalline_chasm": "2025-02-23 04:10:01 +0000",
       "pumpkin_patch": "2025-02-18 23:07:00 +0000",
       "snowy_coniferous_forest": "2025-02-18 23:04:15 +0000",
       "snowy_fir_clearing": "2025-02-18 23:01:23 +0000",
@@ -471,6 +472,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-18 21:43:16 +0000",
+      "minecraft:blaze": "2025-02-23 04:09:02 +0000",
       "minecraft:skeleton": "2025-02-17 02:59:41 +0000",
       "minecraft:vindicator": "2025-02-18 21:42:31 +0000",
       "minecraft:magma_cube": "2025-02-23 03:59:55 +0000",
@@ -640,6 +642,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-02-17 04:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-23 04:09:03 +0000"
     },
     "done": true
   },
@@ -2000,6 +2008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-23 04:12:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-02-23 03:38:14 +0000"
@@ -2180,6 +2194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-23 04:09:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2025-02-09 22:36:04 +0000"
@@ -2207,6 +2227,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-23 02:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-23 04:09:03 +0000"
     },
     "done": true
   },
@@ -2363,6 +2389,12 @@
   "travelersbackpack:recipes/travelersbackpack/light_gray_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-02-23 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-23 04:09:03 +0000"
     },
     "done": true
   },

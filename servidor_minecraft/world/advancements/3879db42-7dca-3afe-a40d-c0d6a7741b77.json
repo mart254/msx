@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-02-23 04:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-02-17 02:59:45 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-23 04:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 03:19:46 +0000"
@@ -382,6 +394,7 @@
       "muskeg": "2025-02-17 03:10:09 +0000",
       "erupting_inferno": "2025-02-23 03:39:16 +0000",
       "cold_desert": "2025-02-17 03:44:13 +0000",
+      "crystalline_chasm": "2025-02-23 04:10:05 +0000",
       "bog": "2025-02-17 03:49:33 +0000",
       "seasonal_orchard": "2025-02-17 03:50:11 +0000",
       "seasonal_forest": "2025-02-17 03:10:08 +0000",
@@ -1020,6 +1033,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_shard": "2025-02-23 04:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 03:39:49 +0000"
@@ -1650,6 +1669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-23 04:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-02-17 03:14:02 +0000"
@@ -1773,6 +1798,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-23 03:39:16 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-02-23 04:13:47 +0000"
     },
     "done": true
   },
@@ -1977,6 +2008,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-17 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-23 04:10:47 +0000"
     },
     "done": true
   },
@@ -2349,6 +2386,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-18 21:54:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-02-23 04:11:49 +0000"
     },
     "done": true
   },
