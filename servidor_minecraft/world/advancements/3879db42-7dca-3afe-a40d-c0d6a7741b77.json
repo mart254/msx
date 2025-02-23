@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-23 03:39:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-18 21:54:25 +0000"
@@ -702,6 +708,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-02-17 03:10:09 +0000",
+      "erupting_inferno": "2025-02-23 03:39:16 +0000",
       "cold_desert": "2025-02-17 03:44:13 +0000",
       "bog": "2025-02-17 03:49:33 +0000",
       "seasonal_orchard": "2025-02-17 03:50:11 +0000",
@@ -969,11 +976,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-18 21:37:12 +0000",
+      "minecraft:blaze": "2025-02-23 03:39:52 +0000",
       "minecraft:skeleton": "2025-02-17 02:59:42 +0000",
       "minecraft:vindicator": "2025-02-18 21:39:35 +0000",
       "minecraft:spider": "2025-02-17 02:57:32 +0000",
       "minecraft:creeper": "2025-02-18 22:38:41 +0000",
       "minecraft:evoker": "2025-02-18 22:18:11 +0000",
+      "minecraft:wither_skeleton": "2025-02-23 03:39:58 +0000",
       "minecraft:cave_spider": "2025-02-18 22:37:54 +0000",
       "minecraft:enderman": "2025-02-17 03:06:58 +0000",
       "minecraft:stray": "2025-02-17 03:29:52 +0000",
@@ -991,6 +1000,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-18 22:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-23 03:39:16 +0000"
     },
     "done": true
   },
@@ -1315,6 +1330,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-23 03:39:16 +0000"
     },
     "done": true
   },
@@ -2072,6 +2093,12 @@
       "has_planks": "2025-02-18 21:54:25 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-23 03:39:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {

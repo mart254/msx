@@ -1421,3 +1421,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [23Feb2025 03:34:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> llegue justo a tiempo
 [23Feb2025 03:34:49.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> me demore mero rato pero lo hice
 [23Feb2025 03:35:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> falta mechero
+[23Feb2025 03:35:38.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> quitate
+[23Feb2025 03:36:24.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> hp
+[23Feb2025 03:39:16.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax has made the advancement [We Need to Go Deeper]
+[23Feb2025 03:39:16.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax has made the advancement [A Terrible Fortress]
+[23Feb2025 03:39:16.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
+[23Feb2025 03:39:19.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 has made the advancement [We Need to Go Deeper]
+[23Feb2025 03:39:19.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 has made the advancement [A Terrible Fortress]
+[23Feb2025 03:39:25.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> NAAAA
+[23Feb2025 03:39:34.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> q coincidencia
+[23Feb2025 03:39:39.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ESTO NO ESTA PLANIADO
+[23Feb2025 03:39:45.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> lol
+[23Feb2025 03:40:12.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> NAAAAAAAAAAAAA
+[23Feb2025 03:40:16.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> XD
+[23Feb2025 03:40:22.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> bro
+[23Feb2025 03:40:25.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> saca clip
+[23Feb2025 03:40:28.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> traes comida?
+[23Feb2025 03:40:28.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> saca clip
+[23Feb2025 03:40:31.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> no
+[23Feb2025 03:41:12.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> q haces
+[23Feb2025 03:41:28.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesar_Gamer58 lost connection: Disconnected
+[23Feb2025 03:41:28.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 left the game
+[23Feb2025 03:44:57.800] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@170bf36
+[23Feb2025 03:44:57.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cesar_Gamer58[/127.135.94.248:48937] logged in with entity id 15452 at (-14.315309629379632, 57.0, 86.50546777135564)
+[23Feb2025 03:44:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 joined the game
+[23Feb2025 03:44:57.847] [Server thread/INFO] [Jade/]: Syncing config to Cesar_Gamer58 (85ee7ff7-7d57-38d2-a777-293dff290c16)
+[23Feb2025 03:45:08.179] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Cesar_Gamer58 (85ee7ff7-7d57-38d2-a777-293dff290c16)
