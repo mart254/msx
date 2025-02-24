@@ -3886,3 +3886,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [24Feb2025 03:26:09.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Feb2025 03:27:43.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> este lugar me trae malos recuerdos
 [24Feb2025 03:30:10.459] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [f4507af2-90bb-4ffe-8333-f2a88adaaab1]
+[24Feb2025 03:31:09.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 03:31:09.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 03:31:16.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> papu?
+[24Feb2025 03:31:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> q
+[24Feb2025 03:31:22.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> donde estas
+[24Feb2025 03:31:37.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> en donde eta la mesa de encantamiento
+[24Feb2025 03:32:14.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> omg
+[24Feb2025 03:32:18.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> totem gratis
+[24Feb2025 03:33:25.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> dontas
+[24Feb2025 03:33:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> abajo
+[24Feb2025 03:33:40.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> no hay nda ahi
+[24Feb2025 03:33:44.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> si
+[24Feb2025 03:33:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> ya lo lootee xd
+[24Feb2025 03:35:03.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> no saquiaste todo
+[24Feb2025 03:36:09.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 03:36:09.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 03:37:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ya sali
+[24Feb2025 03:38:03.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> dontas
+[24Feb2025 03:38:36.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> de camino a la aldea
+[24Feb2025 03:38:59.695] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [85ee7ff7-7d57-38d2-a777-293dff290c16]
+[24Feb2025 03:39:06.305] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [9b0ea245-aa3b-4d32-845f-b3c8f40127e1]
+[24Feb2025 03:39:20.103] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [d6c5c40f-45f4-4b8d-81d0-3d155a8130b6]
+[24Feb2025 03:39:34.147] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [22023ec9-5eb0-4d95-891f-55d41c17421a]
+[24Feb2025 03:39:47.773] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [9f062e1d-c151-4380-b38f-20910c1e68d4]
+[24Feb2025 03:39:55.365] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [85ee7ff7-7d57-38d2-a777-293dff290c16]
+[24Feb2025 03:39:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> q hacemos
+[24Feb2025 03:40:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> papu
+[24Feb2025 03:40:05.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> dime
+[24Feb2025 03:40:08.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> intenta escapar de mi hechizo
+[24Feb2025 03:40:10.705] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [85ee7ff7-7d57-38d2-a777-293dff290c16]
+[24Feb2025 03:40:12.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> ok
+[24Feb2025 03:40:24.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> xd
+[24Feb2025 03:40:25.892] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [85ee7ff7-7d57-38d2-a777-293dff290c16]
+[24Feb2025 03:40:27.217] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [abf65f12-a619-4c49-a98d-4131179f0a2c]
+[24Feb2025 03:40:27.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> es muy lento
+[24Feb2025 03:40:54.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> es que es pa las entidades

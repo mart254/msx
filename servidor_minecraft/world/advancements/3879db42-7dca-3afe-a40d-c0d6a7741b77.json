@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 03:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-02-17 02:59:45 +0000"
@@ -410,6 +416,7 @@
       "crystalline_chasm": "2025-02-23 04:10:05 +0000",
       "field": "2025-02-24 03:25:49 +0000",
       "bog": "2025-02-17 03:49:33 +0000",
+      "coniferous_forest": "2025-02-24 03:26:13 +0000",
       "seasonal_orchard": "2025-02-17 03:50:11 +0000",
       "seasonal_forest": "2025-02-17 03:10:08 +0000",
       "fir_clearing": "2025-02-17 03:49:00 +0000",
@@ -1204,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 03:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-02-18 22:07:12 +0000"
@@ -1339,6 +1352,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-02-17 03:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 03:32:10 +0000"
     },
     "done": true
   },
@@ -2165,6 +2184,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-17 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 03:32:10 +0000"
     },
     "done": true
   },
