@@ -667,6 +667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-24 03:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-17 02:50:48 +0000"
@@ -1164,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-24 03:14:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-18 21:36:04 +0000"
@@ -1479,7 +1491,9 @@
       "bread": "2025-02-17 03:16:12 +0000",
       "golden_apple": "2025-02-23 03:54:11 +0000",
       "melon_slice": "2025-02-18 22:06:36 +0000",
-      "cooked_salmon": "2025-02-23 03:59:35 +0000"
+      "golden_carrot": "2025-02-24 03:13:43 +0000",
+      "cooked_salmon": "2025-02-23 03:59:35 +0000",
+      "carrot": "2025-02-24 03:13:49 +0000"
     },
     "done": false
   },
@@ -1783,6 +1797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-24 03:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-18 22:07:12 +0000"
@@ -1810,6 +1830,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-17 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-24 03:09:12 +0000"
     },
     "done": true
   },
@@ -2350,6 +2376,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-24 03:08:59 +0000"
     },
     "done": true
   },
