@@ -3956,3 +3956,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [24Feb2025 03:49:30.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> eso sse vio muy grasioso
 [24Feb2025 03:50:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> esa flor me quemo
 [24Feb2025 03:50:23.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> a mi tambien xd
+[24Feb2025 03:51:09.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 03:51:09.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 03:51:23.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> por aqui no
+[24Feb2025 03:51:41.162] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [34a6c6e7-7879-4e85-a999-c49d3a26e4bb]
+[24Feb2025 03:51:54.403] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [e0fd546b-b741-4b3a-904e-fcc73683f1d8]
+[24Feb2025 03:51:57.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> mira
+[24Feb2025 03:52:02.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> XD
+[24Feb2025 03:52:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> xd
+[24Feb2025 03:52:42.875] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [6c295e18-bb5a-4892-b5ad-c8d58a46569d]
+[24Feb2025 03:52:49.441] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [6c295e18-bb5a-4892-b5ad-c8d58a46569d]
+[24Feb2025 03:53:49.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> q hacemo
+[24Feb2025 03:53:53.797] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [34af6039-d3b6-481f-b3fa-757a11ac6fad]
+[24Feb2025 03:54:30.334] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [8d633252-827a-45b6-b82c-99ac3d6ae549]
+[24Feb2025 03:54:37.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> en que capa aparece la netherite
+[24Feb2025 03:55:15.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ya no me acuerdo
+[24Feb2025 03:55:31.795] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [61ff5caa-1029-4d5f-b57b-7edbbd1a46f2]
+[24Feb2025 03:55:57.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> eso que es
+[24Feb2025 03:56:02.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> a
+[24Feb2025 03:56:09.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 03:56:09.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 03:56:24.394] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [990ac0fe-7421-4f67-976d-357967c25b86]
+[24Feb2025 03:56:28.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> XD
+[24Feb2025 03:56:31.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> lol
+[24Feb2025 03:57:27.103] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [053fc4ce-1b96-4723-8607-3a90d371ac85]
+[24Feb2025 03:57:34.343] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [7eb38448-a9aa-40ae-95c8-99798e2911bd]
+[24Feb2025 03:57:53.194] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [d6a67862-8e02-41ff-8cfe-2bfaaa003584]
+[24Feb2025 03:58:54.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> que dificil caminar por esta mrd
+[24Feb2025 03:59:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> no veo nada lo peor de todo
+[24Feb2025 03:59:16.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> pq
+[24Feb2025 03:59:19.832] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [568da3f4-0ad0-4ba0-b27b-816656254525]
+[24Feb2025 03:59:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> xd
+[24Feb2025 03:59:32.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ni una fortaleza xd
+[24Feb2025 04:00:07.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> tengo 2 pieles de hoglin
+[24Feb2025 04:00:49.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> hp
+[24Feb2025 04:00:52.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> me tengo que ir
+[24Feb2025 04:00:56.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> carajo
+[24Feb2025 04:01:09.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 04:01:09.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

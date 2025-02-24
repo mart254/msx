@@ -383,7 +383,8 @@
       "pumpkin_patch": "2025-02-18 23:07:00 +0000",
       "snowy_coniferous_forest": "2025-02-18 23:04:15 +0000",
       "snowy_fir_clearing": "2025-02-18 23:01:23 +0000",
-      "tundra": "2025-02-17 03:10:57 +0000"
+      "tundra": "2025-02-17 03:10:57 +0000",
+      "undergrowth": "2025-02-24 03:50:04 +0000"
     },
     "done": false
   },
@@ -500,6 +501,7 @@
       "minecraft:pillager": "2025-02-18 21:43:16 +0000",
       "minecraft:blaze": "2025-02-23 04:09:02 +0000",
       "minecraft:skeleton": "2025-02-17 02:59:41 +0000",
+      "minecraft:hoglin": "2025-02-24 03:49:55 +0000",
       "minecraft:vindicator": "2025-02-18 21:42:31 +0000",
       "minecraft:magma_cube": "2025-02-23 03:59:55 +0000",
       "minecraft:spider": "2025-02-17 02:57:40 +0000",
@@ -1182,7 +1184,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-02-23 03:39:29 +0000"
+      "minecraft:crimson_forest": "2025-02-24 03:50:05 +0000",
+      "minecraft:nether_wastes": "2025-02-23 03:39:29 +0000",
+      "minecraft:soul_sand_valley": "2025-02-24 03:49:49 +0000"
     },
     "done": false
   },
@@ -1476,6 +1480,7 @@
       "sweet_berries": "2025-02-17 03:00:59 +0000",
       "cooked_beef": "2025-02-18 21:47:27 +0000",
       "beef": "2025-02-17 03:09:18 +0000",
+      "baked_potato": "2025-02-24 03:47:29 +0000",
       "porkchop": "2025-02-18 22:21:04 +0000",
       "apple": "2025-02-09 22:33:00 +0000",
       "potato": "2025-02-18 21:44:41 +0000",
@@ -2344,6 +2349,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-09 22:29:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2025-02-24 03:57:32 +0000"
     },
     "done": true
   },
