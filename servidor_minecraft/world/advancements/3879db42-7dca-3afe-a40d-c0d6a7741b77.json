@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-24 03:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-23 03:47:14 +0000"
@@ -275,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 03:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 03:19:46 +0000"
@@ -394,11 +406,14 @@
       "muskeg": "2025-02-17 03:10:09 +0000",
       "erupting_inferno": "2025-02-23 03:39:16 +0000",
       "cold_desert": "2025-02-17 03:44:13 +0000",
+      "maple_woods": "2025-02-24 03:22:33 +0000",
       "crystalline_chasm": "2025-02-23 04:10:05 +0000",
+      "field": "2025-02-24 03:25:49 +0000",
       "bog": "2025-02-17 03:49:33 +0000",
       "seasonal_orchard": "2025-02-17 03:50:11 +0000",
       "seasonal_forest": "2025-02-17 03:10:08 +0000",
       "fir_clearing": "2025-02-17 03:49:00 +0000",
+      "pumpkin_patch": "2025-02-24 03:20:00 +0000",
       "snowy_coniferous_forest": "2025-02-17 03:43:20 +0000",
       "snowy_fir_clearing": "2025-02-17 03:47:20 +0000",
       "tundra": "2025-02-17 03:11:09 +0000",
@@ -451,6 +466,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-17 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-24 03:23:25 +0000"
     },
     "done": true
   },
@@ -561,7 +582,8 @@
       "minecraft:enderman": "2025-02-17 03:06:58 +0000",
       "minecraft:stray": "2025-02-17 03:29:52 +0000",
       "minecraft:vex": "2025-02-18 22:26:53 +0000",
-      "minecraft:zombie": "2025-02-18 21:51:35 +0000"
+      "minecraft:zombie": "2025-02-18 21:51:35 +0000",
+      "minecraft:drowned": "2025-02-24 03:23:32 +0000"
     },
     "done": false
   },
@@ -1188,6 +1210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 03:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-17 03:07:23 +0000"
@@ -1488,6 +1516,7 @@
       "cooked_mutton": "2025-02-17 03:25:42 +0000",
       "sweet_berries": "2025-02-17 02:56:43 +0000",
       "cooked_beef": "2025-02-18 21:56:38 +0000",
+      "baked_potato": "2025-02-24 03:23:52 +0000",
       "bread": "2025-02-17 03:16:12 +0000",
       "golden_apple": "2025-02-23 03:54:11 +0000",
       "melon_slice": "2025-02-18 22:06:36 +0000",
@@ -2001,6 +2030,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-02-24 03:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-02-17 03:14:02 +0000"
@@ -2376,6 +2411,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-17 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-24 03:21:38 +0000"
     },
     "done": true
   },
