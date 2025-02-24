@@ -3994,3 +3994,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [24Feb2025 04:00:56.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> carajo
 [24Feb2025 04:01:09.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Feb2025 04:01:09.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 04:01:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> donde
+[24Feb2025 04:01:58.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> -14
+[24Feb2025 04:03:25.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> ostia
+[24Feb2025 04:03:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> no hacen nada
+[24Feb2025 04:03:34.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> que es eso
+[24Feb2025 04:04:35.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> verda que tengo tp
+[24Feb2025 04:05:28.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cesar_Gamer58> gg
+[24Feb2025 04:05:36.596] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [85ee7ff7-7d57-38d2-a777-293dff290c16]
+[24Feb2025 04:05:43.803] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [85ee7ff7-7d57-38d2-a777-293dff290c16]
+[24Feb2025 04:05:52.001] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [85ee7ff7-7d57-38d2-a777-293dff290c16]
+[24Feb2025 04:05:59.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [85ee7ff7-7d57-38d2-a777-293dff290c16]
+[24Feb2025 04:06:09.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 04:06:09.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 04:06:15.119] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [85ee7ff7-7d57-38d2-a777-293dff290c16]
+[24Feb2025 04:07:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> porque pusiste un tnt xd
+[24Feb2025 04:08:34.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papijax> bueno chao
+[24Feb2025 04:08:35.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papijax lost connection: Disconnected
+[24Feb2025 04:08:35.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papijax left the game
+[24Feb2025 04:08:50.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cesar_Gamer58 lost connection: Disconnected
+[24Feb2025 04:08:50.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cesar_Gamer58 left the game
+[24Feb2025 04:08:57.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Feb2025 04:08:57.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[24Feb2025 04:09:01.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Feb2025 04:09:01.085] [Server thread/INFO] [HammerLib/]: Purging cache from 0 HL recipe registries.
+[24Feb2025 04:09:01.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Feb2025 04:09:01.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Feb2025 04:09:01.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Feb2025 04:09:02.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Feb2025 04:09:02.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Feb2025 04:09:02.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Feb2025 04:09:02.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 04:09:02.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 04:09:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Feb2025 04:09:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Feb2025 04:09:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Feb2025 04:09:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Feb2025 04:09:02.108] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[24Feb2025 04:09:02.108] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[24Feb2025 04:09:02.108] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
